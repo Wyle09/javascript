@@ -1,0 +1,18 @@
+.cluster-marker {
+  color: #fff;
+  background: rgb(13, 145, 150);
+  border-radius: 50%;
+  padding: 10%;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.crime-marker {
+  background: none;
+  border: none;
+}
+
+.crime-marker img {
+  width: 25px;
+}
